@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "INNOCENCE",
+  "base_artist": "Eir Aoi",
+  "createdAt": "2026-03-12T16:28:13.981843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Innocence",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Innocence_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Innocence Of",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/02_The_Innocence_Of_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Return to Innocence Lost",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_The_Return_to_Innocence_Lost_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Innocence (feat. Aquilo)",
+      "artist": "Madeon feat. Aquilo",
+      "has_synced": true,
+      "path": "select/04_Innocence_(feat._Aquilo)_Madeon_feat._Aquilo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Age of False Innocence",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/05_Age_of_False_Innocence_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Age of Innocence",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/06_Age_of_Innocence_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Child of Innocence",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/07_Child_of_Innocence_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Innocence",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/08_Innocence_Nero.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Innocence",
+      "artist": "Negative Gemini",
+      "has_synced": false,
+      "path": "select/09_My_Innocence_Negative_Gemini.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Innocence of Sleep",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/10_Innocence_of_Sleep_Placebo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Little Innocence",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/11_A_Little_Innocence_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Little Innocence",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/12_A_Little_Innocence_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 A little innocence",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/13_Cock_Robin_\u0000_A_little_innocence_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Innocence",
+      "artist": "Go West",
+      "has_synced": false,
+      "path": "select/14_Innocence_Go_West.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Innocence and Science",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/15_Innocence_and_Science_Spandau_Ballet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_01_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_02_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_03_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_04_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_05_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_06_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_07_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_08_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_09_INNOCENCE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "INNOCENCE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_10_INNOCENCE_藍井エイル.txt"
+    }
+  ]
+}
